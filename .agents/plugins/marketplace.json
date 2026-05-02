@@ -1,0 +1,32 @@
+{
+  "name": "nyldn-plugins",
+  "interface": {
+    "displayName": "nyldn"
+  },
+  "plugins": [
+    {
+      "name": "claude-octopus",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nyldn/claude-octopus.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Orchestration"
+    },
+    {
+      "name": "img",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nyldn/img.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Creative"
+    }
+  ]
+}
