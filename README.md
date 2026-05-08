@@ -30,7 +30,7 @@ Restart Codex, open `/plugins`, then install or enable the plugins you want.
 
 | Plugin | Install | Description |
 |---|---|---|
-| Octopus | `claude plugin install octo@nyldn-plugins` or Codex `/plugins` as `claude-octopus` | Multi-LLM orchestration for Claude Code and Codex. |
+| Octopus | `claude plugin install octo@nyldn-plugins` or Codex `/plugins` as `claude-octopus` | Multi-LLM orchestration for Claude Code and Codex, with agent summaries, prompt-size preflight, and research fanout. |
 | Image Agency | `claude plugin install img@nyldn-plugins` or Codex `/plugins` as `img` | Generate and edit images with OpenAI GPT Image 2 and Gemini 3.1 Flash Image Preview. |
 
 ## Update
