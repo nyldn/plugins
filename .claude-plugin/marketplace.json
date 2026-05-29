@@ -15,8 +15,8 @@
         "source": "url",
         "url": "https://github.com/nyldn/claude-octopus.git"
       },
-      "description": "v9.41.0 - Multi-LLM orchestration for Claude Code with first-class /octo:council, agent summaries, prompt-size preflight, research fanout, and Codex-compatible skills. 32 personas, 48 commands, 54 skills. Run /octo:setup.",
-      "version": "9.41.0",
+      "description": "v9.41.2 - Fix cursor-agent smoke test in untrusted workspaces. 32 personas, 48 commands, 54 skills. Run /octo:setup.",
+      "version": "9.41.2",
       "author": {
         "name": "nyldn",
         "url": "https://github.com/nyldn"
