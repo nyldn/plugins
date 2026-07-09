@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "claude-octopus",
+      "name": "octo",
       "source": {
         "source": "url",
         "url": "https://github.com/nyldn/claude-octopus.git"
