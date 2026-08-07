@@ -15,8 +15,8 @@
         "source": "url",
         "url": "https://github.com/nyldn/claude-octopus.git"
       },
-      "description": "v9.58.0 - Agent topology audit, four adapted workflow skills, and the Gemini migration offered as a real choice. 32 personas, 50 commands, 63 skills. Run /octo:setup.",
-      "version": "9.58.0",
+      "description": "v9.60.0 - Provider identity from one registry, grok and claude-sdk dispatch repaired, and duplicate test targets removed. 32 personas, 51 commands, 63 skills. Run /octo:setup.",
+      "version": "9.60.0",
       "author": {
         "name": "nyldn",
         "url": "https://github.com/nyldn"
